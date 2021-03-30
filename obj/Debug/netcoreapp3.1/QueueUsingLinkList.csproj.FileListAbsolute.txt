@@ -1,0 +1,13 @@
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\bin\Debug\netcoreapp3.1\QueueUsingLinkList.exe
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\bin\Debug\netcoreapp3.1\QueueUsingLinkList.deps.json
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\bin\Debug\netcoreapp3.1\QueueUsingLinkList.runtimeconfig.json
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\bin\Debug\netcoreapp3.1\QueueUsingLinkList.runtimeconfig.dev.json
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\bin\Debug\netcoreapp3.1\QueueUsingLinkList.dll
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\bin\Debug\netcoreapp3.1\QueueUsingLinkList.pdb
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\obj\Debug\netcoreapp3.1\QueueUsingLinkList.csprojAssemblyReference.cache
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\obj\Debug\netcoreapp3.1\QueueUsingLinkList.AssemblyInfoInputs.cache
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\obj\Debug\netcoreapp3.1\QueueUsingLinkList.AssemblyInfo.cs
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\obj\Debug\netcoreapp3.1\QueueUsingLinkList.csproj.CoreCompileInputs.cache
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\obj\Debug\netcoreapp3.1\QueueUsingLinkList.dll
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\obj\Debug\netcoreapp3.1\QueueUsingLinkList.pdb
+C:\Users\praka\source\repos\QueueUsingLinkList\QueueUsingLinkList\obj\Debug\netcoreapp3.1\QueueUsingLinkList.genruntimeconfig.cache
